@@ -68,6 +68,5 @@ cat ssh_key_aws.pub # paste the content into GitHub Secrets EC2_PUBLIC_SSH_KEY
 >**Note**: I've build this project from many resources and couldn't memorize every source I got info from.
 I hope you benefit from this project.
 If you like this project, I appreciate you starring this repo.<br>
-Finally, feel free to fork the content and contact me on my [LinkedIn account](https://www.linkedin.com/in/abdassalam-ahmad/) if you have any questions about this project.<br>
 
 
